@@ -1,2255 +1,59 @@
 8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626159467 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724631923124 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626162528 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724631926189 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626165591 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724631929258 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626168646 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724631932334 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626171708 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626186813 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626189870 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626192936 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626196002 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626199068 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626202130 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626205200 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626208262 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626223397 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626226462 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626229528 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626232602 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626235667 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626238729 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626253820 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626256877 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626272002 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626275075 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626278131 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626281192 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626284248 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626299343 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626302408 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626305481 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626308541 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626323632 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626326699 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626341796 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626344861 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626347924 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626350991 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626354064 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626369170 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626372233 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626375301 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626378377 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626381440 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626396544 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626399608 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626402670 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626405737 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626408793 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626411920 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626427019 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626430089 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626433167 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626436228 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626451341 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626454404 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626457478 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626472585 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626475640 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626478700 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626481757 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626496860 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626499917 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626502981 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626518068 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626521137 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626536232 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626539289 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626542348 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626557450 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626560509 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626563566 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626578747 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626581818 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626584919 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626600007 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626603080 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626606147 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626621253 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626624310 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626627369 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626642472 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626645536 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626648594 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626651653 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626654710 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626669810 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626672870 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626675931 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626678994 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626682052 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626697138 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626700199 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626703267 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626706334 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626721439 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626724503 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626727563 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626742681 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626745746 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626748811 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626751879 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626754946 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626770046 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626773102 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626776169 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626779232 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626794332 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626797399 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626800465 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626803529 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626806592 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626821695 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626824757 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626827816 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626842936 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626846008 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626849084 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626852159 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626855218 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626870316 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626873382 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626888481 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626891544 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626894610 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626897675 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626912769 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626915827 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626930937 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626934011 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626937075 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626952171 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626955237 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626958302 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724626973401 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626976461 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626979545 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626982610 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626985691 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626988756 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626991823 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724626994891 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627009985 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627013042 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627016117 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627019181 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627022242 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627025300 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627028356 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627043467 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627046538 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627049605 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627052672 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627055732 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627058802 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627073902 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627076965 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627080030 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627083087 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627086151 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627089209 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627092269 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627095337 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627098402 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627101459 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627104521 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627107597 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627110664 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627113727 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627116786 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627119858 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627122921 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627125993 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627129055 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627132117 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627135186 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627138256 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627141312 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627144377 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627147448 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627150515 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627153586 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627156644 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627159707 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627162767 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627165835 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627168901 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627171963 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627175022 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627178101 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627193204 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627196267 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627199345 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627202407 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627205468 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627208534 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627211602 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627214670 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627229768 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627232829 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627235890 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627238952 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627242012 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627245068 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627260166 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627263225 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627266447 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627269508 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627272577 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627287699 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627290772 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627293836 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627296908 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627299975 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627315063 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627318163 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627321235 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627324300 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627327357 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627330418 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627333483 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627348573 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627351635 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627354693 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627357750 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627360819 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627375927 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627378996 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627382069 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627385138 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627388200 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627403308 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627406372 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627409429 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627412492 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627415550 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627430648 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627433706 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627436768 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627451879 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627454936 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627457997 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627473108 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627476183 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627479247 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627482308 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627485370 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627500458 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627503526 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627506593 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627521692 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627524748 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627527810 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627542904 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627545965 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627549031 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627552089 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627555152 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627558215 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627573304 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627576365 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627579423 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627594517 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627597586 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627600642 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627603703 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627606767 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627621864 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627624919 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627627985 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627643071 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627646136 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627649209 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627652271 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627655331 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627670448 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627673511 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627676575 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627691681 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627694739 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627697797 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627700871 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627715960 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627719021 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627722088 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627725148 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627728206 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627743303 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627746365 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627749427 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627764522 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627767593 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627770656 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627773743 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724631947428 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627776803 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724631950492 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627791898 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627794961 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724631953557 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627798018 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724631956628 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -2259,21 +63,21 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627813122 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724631971732 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627816191 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724631974796 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627819261 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724631977857 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -2283,35 +87,28 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627834362 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627837424 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724631992949 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627840485 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724631996020 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627843544 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724631999083 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627846628 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632002153 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -2321,66 +118,28 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627861731 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627864798 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627867867 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627870934 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627873991 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627877052 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632017260 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627892154 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632020325 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627895215 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632023385 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627898274 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632026458 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -2390,21 +149,21 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627913370 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632041561 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627916431 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632044623 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627919490 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632047683 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -2414,59 +173,38 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627934580 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632062801 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627937663 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632065862 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627940719 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627943778 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627958880 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627961948 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632080953 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627965010 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632084021 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627968076 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632087086 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -2476,28 +214,28 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724627983173 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632102186 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627986230 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632105262 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627989295 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632108336 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724627992360 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632111408 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -2507,42 +245,35 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628007479 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628010544 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632126523 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628013611 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632129583 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628016670 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632132644 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628019737 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632135708 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628022802 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632138771 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -2552,52 +283,28 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628037905 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628040971 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
+[2J8[0mplayit (v0.15.21): 1724632153872 tunnel running, 2 tunnels registered
 
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628044037 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628047101 tunnel running, 2 tunnels registered
-
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628062246 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632156934 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628065305 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632159997 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628068365 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632163058 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -2607,28 +314,28 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628083489 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632178160 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628086555 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632181224 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628089614 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632184301 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628092682 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632187358 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -2638,45 +345,28 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628107775 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628110841 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628113904 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632202460 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628129001 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632205527 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628132065 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632208592 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628135133 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632211658 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -2686,38 +376,35 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628150227 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632226754 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628153297 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632229821 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628156362 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632232984 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628171466 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632236044 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628174530 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632239109 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -2727,21 +414,14 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628189636 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628192698 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632254212 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628195771 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632257270 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -2751,38 +431,28 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628210864 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628213929 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632272365 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628216991 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632275423 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628232092 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632278489 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628235148 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632281567 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -2792,38 +462,28 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628250262 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
+[2J8[0mplayit (v0.15.21): 1724632296670 tunnel running, 2 tunnels registered
 
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628253331 tunnel running, 2 tunnels registered
-
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628256387 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632299738 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628271487 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632302805 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628274548 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632305865 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -2833,38 +493,21 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628289645 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628292711 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628295778 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632320968 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628310874 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632324029 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628313934 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632327091 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -2874,21 +517,21 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628329096 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632342211 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628332159 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632345293 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628335229 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632348397 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -2898,38 +541,21 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628350355 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628353434 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628356492 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632363483 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628371597 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632366543 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628374653 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632369611 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -2939,45 +565,28 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628389747 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628392809 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628395871 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632384726 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628410964 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632387792 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628414027 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632390852 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628417091 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632393925 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -2987,38 +596,35 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628432209 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632409029 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628435282 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632412102 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628450383 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632415164 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628453445 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632418224 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628456515 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632421291 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -3028,55 +634,35 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628471612 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628474677 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628477740 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632436413 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628492870 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632439476 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628495940 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632442544 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628511042 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632445610 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628514101 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632448675 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -3086,21 +672,21 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628529214 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632463776 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628532274 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632466841 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628535333 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632469903 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -3110,38 +696,28 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628550437 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628553503 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632485020 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628568730 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632488108 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628571788 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632491166 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628574851 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632494229 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -3151,31 +727,14 @@ providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628589944 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628593000 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632509349 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1724628596060 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.21): 1724628611165 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724632512409 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
