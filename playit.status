@@ -1,1358 +1,1176 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.21): 1727475354883 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1728147314961 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475357949 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147318034 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475361030 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147321096 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475366315 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147324177 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475369384 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147327254 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475372456 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147332272 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475375525 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147335347 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475378604 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147338417 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475381682 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147341492 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475384750 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147346601 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475387943 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147349688 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475391012 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147353277 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475394079 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147356371 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475397149 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147359440 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475400220 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147362515 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475403306 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147365589 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475406369 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147368658 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475409445 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147371797 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475412508 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147374869 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475415858 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147377936 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475418930 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147381017 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475421993 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147384084 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475425061 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147387175 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475428127 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147390246 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475431191 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147393991 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475434265 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147397062 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475437335 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147400138 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475440396 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147403209 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475443466 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147406275 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475446529 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147409346 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475449595 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147413906 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475452728 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147416979 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475455804 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147420052 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475458868 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147423125 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475461936 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147426209 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475465009 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147429276 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475468072 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147432339 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475471140 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147435447 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475474223 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147438518 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475477284 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147441582 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475480343 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147444665 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475483415 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147447787 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475486480 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147450877 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475489546 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147453945 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475492620 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147457056 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475495688 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147460131 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475498753 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147463210 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475501816 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147466316 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475504890 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147469388 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475507957 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147472453 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475511024 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147475536 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475515639 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147478606 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475518708 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147481669 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475521775 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147484742 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475526190 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147487872 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475529274 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147490973 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475532336 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147494056 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475535397 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147499135 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475538479 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147502312 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475541542 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147505404 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475544612 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147508471 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475547673 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147511541 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475550742 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147514617 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475553844 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147517697 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475556908 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147520774 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475559975 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147523842 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475563033 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147526910 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475566100 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147529977 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475569173 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147533045 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475572235 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147536123 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475575298 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147539197 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475578368 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147543535 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475581428 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147548568 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475584500 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147551636 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475587563 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147554701 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475590625 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147557765 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475593785 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147560836 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475596856 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147564801 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475599955 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147567875 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475603034 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147570948 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475606769 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147574011 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475609830 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147577082 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475612899 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147580154 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475617462 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147583226 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475620540 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147586293 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475623607 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147589366 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475626677 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147593489 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475629829 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147596570 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475632897 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147599636 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475635967 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147602752 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475639028 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147606554 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475642098 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147609631 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475645160 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147612709 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475648226 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147615782 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475651286 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147618851 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475654351 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147621988 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475657419 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147625088 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475660485 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147628164 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475663552 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147631302 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475666613 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147634381 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475669679 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147638284 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475672744 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147641812 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475675806 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147644915 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475678886 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147647984 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475681950 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147651050 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475685008 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147654125 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475688088 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147657317 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475691241 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147660382 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475694305 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147663448 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475697371 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147666515 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475700434 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147669584 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475703499 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147672664 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475706562 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147675746 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475709624 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147678819 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475712716 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147681900 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475715783 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147684985 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475718846 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147688048 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475721924 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147691117 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475724994 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147694193 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475728062 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147697259 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475731133 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147700327 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475734203 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147703399 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475737288 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147706469 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475740365 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147709547 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475743444 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147712612 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475746528 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147715683 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475749593 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147719647 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475753776 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147722730 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475756835 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147725801 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475759897 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147728897 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475762970 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147731971 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475766041 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147737460 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475769104 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147740547 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475772170 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147743619 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475775236 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147746697 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475778297 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147749968 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475781363 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147753044 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475784422 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147756118 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475787485 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147759189 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475790549 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147762282 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475793610 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147765349 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475796670 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147768591 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475799730 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147772682 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475802807 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147775754 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475805875 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147779018 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475808956 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147782093 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475812023 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147785172 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475815098 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147788267 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475818160 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147791361 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475821225 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147794451 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475824292 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147797518 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475827363 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147800597 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475830445 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147803711 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475833504 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147806798 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475836583 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147809926 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475839650 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147812995 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475842718 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147816176 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475845788 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147819250 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475848865 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147824583 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475851935 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147827694 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475854998 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147830777 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475858063 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147833850 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475861148 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147836954 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475864211 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147840050 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475867308 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147843117 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475870373 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147846183 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475873465 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147849268 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475876532 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147852331 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475879605 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147855407 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475882676 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147858485 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475885744 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147861567 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475888811 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147864644 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475891878 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147867715 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475894943 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147870804 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475898007 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147873873 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475901084 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147876946 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475904147 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147880012 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475907211 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147883088 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475910299 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147886241 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475913366 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147889323 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475916429 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147892717 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475919502 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147895805 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475922566 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147899185 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475925632 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147902373 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475928698 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147905458 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475931762 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147908626 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475934826 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147911701 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475937891 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147914772 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475941021 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147917930 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475944090 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147923372 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475947915 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147926445 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475950976 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147929512 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475954041 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147932580 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.21): 1727475957103 tunnel running, 2 tunnels registered
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147935648 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-events-leasing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-providing-spencer.gl.at.ply.gg:1761 => 127.0.0.1:1761 (proto: Udp, port count: 1)
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147939777 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728147942847 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+driver-presence.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
